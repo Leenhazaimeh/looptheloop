@@ -1,5 +1,5 @@
 alert("hello ASAC student's")
-alert("Let's talk about social media ")
+alert("Let's just have fun ")
 var myage ="26";
 gussmyage =prompt("pleas guss my age ")
 while(myage !==  gussmyage){
